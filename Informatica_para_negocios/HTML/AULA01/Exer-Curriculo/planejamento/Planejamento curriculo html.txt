@@ -1,0 +1,12 @@
+Planejamento curriculo html
+Uma pagina index contendo 4 links, esses links ficam com quadrado um botão pra cada, quando clica em um vai direto para pagina.
+ Vc ao rolar o scrol pode ver os links citados de forma ordenada.
+
+ Paginas
+ -index(Contendo atalhos)
+ -About(sobre mim)
+ -Empresas que trabalhei
+ -Projetos Pessoais
+ -Formação(Escola)
+
+ Tmb tera um meio de entrar em contato comigo pode ser por whatssap ou email, invite vai ser direto comunicação.
